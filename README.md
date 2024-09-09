@@ -1,5 +1,5 @@
 # House-Rental-Data-Analysis
-# House Rental Dataset Analysis
+
 This repository contains an R script for analyzing a house rental dataset. The analysis includes data cleaning, exploration, and visualization to derive insights into rental patterns across different cities in India. The script utilizes various data analysis libraries and covers essential exploratory data analysis (EDA) tasks, data cleaning, and visualization.
 
 # Dataset
